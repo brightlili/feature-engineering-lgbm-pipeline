@@ -1,0 +1,16 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+lightgbm==4.3.0
+matplotlib==3.9.0
+seaborn==0.13.2
+jupyter==1.0.0
+notebook==7.2.0
+ipykernel==6.29.4
+feature-engine==1.9.4
+
+loan_data.csv
+latest_customers.csv
+
+# Saved models
+*.pkl
